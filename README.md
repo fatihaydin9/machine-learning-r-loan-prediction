@@ -30,3 +30,5 @@ Using this data, analyse the new loan applications whose data are provided in **
 | 16 | loan_length | The duration of the loan |
 | 17 | collateral | yes; no |
 | 18 | writeoff | yes; no (target variable) |
+
+All codes written in R language.
